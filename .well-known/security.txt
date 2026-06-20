@@ -1,0 +1,8 @@
+Contact: mailto:irfan@iscode.id
+Contact: https://stockistnasa.id/
+Expires: 2027-06-19T00:00:00Z
+Preferred-Languages: id, en
+Canonical: https://stockistnasa.id/.well-known/security.txt
+Policy: https://stockistnasa.id/
+
+# Laporkan kerentanan ke email di atas. Jangan uji aktif di production tanpa izin.

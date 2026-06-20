@@ -1,6 +1,8 @@
-# Stockist NASA AB.720 Yogyakarta — stockistnasa.id
+# Stockist NASA AB.720 Yogyakarta - stockistnasa.id
 
 Website katalog produk NASA dengan keranjang WhatsApp, 55+ artikel SEO, dan landing page mitra.
+
+Repo: https://github.com/ifanmocha/stockistnasa.id
 
 ## Tech Stack
 
