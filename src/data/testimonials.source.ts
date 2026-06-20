@@ -1,0 +1,30 @@
+export const testimonials = [
+  {
+    name: "Budi Santoso",
+    role: "Petani, Sleman",
+    quote:
+      "POC NASA dan Hormonik bikin panen cabe saya naik signifikan. Pesan di stockist ini selalu original dan dikirim cepat.",
+    product: "poc-nasa",
+  },
+  {
+    name: "Siti Rahayu",
+    role: "Ibu rumah tangga, Bantul",
+    quote:
+      "Sudah langganan Crystal X dan propolis di sini. Konsultasi via WA sangat membantu, tidak asal jual.",
+    product: "crystal-x",
+  },
+  {
+    name: "Ahmad Fauzi",
+    role: "Peternak ayam, Jogja",
+    quote:
+      "Viterna Plus untuk ternak saya terbukti. FCR turun, bobot naik. Stockist AB.720 recommended banget.",
+    product: "viterna-plus",
+  },
+  {
+    name: "Dewi Lestari",
+    role: "Mitra NASA, Kulon Progo",
+    quote:
+      "Daftar mitra cuma 25 ribu, langsung dapat harga distributor. Pendampingannya bagus, bisnis sampingan lumayan.",
+    product: "",
+  },
+] as const;

@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://stockistnasa.id/sitemap.xml
+
+# AI crawlers
+User-agent: GPTBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
