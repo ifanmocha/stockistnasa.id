@@ -44,3 +44,7 @@ next-env.d.ts
 /cms-data/
 /admin/node_modules/
 /admin/dist/
+
+# AI/IDE tool config - jangan ikut ke repo public
+.vscode/
+.idea/
